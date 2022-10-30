@@ -1,7 +1,7 @@
 This project has been developed for educational purposes and the resources used are given below with their links.
 
 
-=======================================================================================================
+====================================================================================
 
 
 Photos:
@@ -11,7 +11,7 @@ mario   : 'https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/55/c1/9b/55c19b
 photo   : 'https://sample-videos.com/download-sample-jpg-image.php' => 10 mb jpg 
 
 
-=======================================================================================================
+====================================================================================
 
 
 Videos:
@@ -47,7 +47,7 @@ v14.mp4 :  'https://www.pexels.com/video/silhouette-of-women-7871048/',
 v15.mp4 :  'https://www.pexels.com/video/hand-putting-glass-on-table-with-glasses-12173630/',
 
 
-=======================================================================================================
+====================================================================================
 
 
 Icons.  :  'https://icons8.com/icons/set/instagram'
