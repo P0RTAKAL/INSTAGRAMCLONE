@@ -7,6 +7,7 @@ This project has been developed for educational purposes and the resources used 
 Photos:
 
 mario   : 'https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/55/c1/9b/55c19b93-6d69-5753-9c73-4c3e4659a510/iMessage_App_Icon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-181-0-0-0-0.png/266x200bb.jpeg'
+
 photo   : 'https://sample-videos.com/download-sample-jpg-image.php' => 10 mb jpg 
 
 
