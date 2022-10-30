@@ -12,12 +12,10 @@ import { useNavigation } from '@react-navigation/native';
 const Login = () => {
     const [userName, setUserName] = useState('');
     const [password, setPassword] = useState('');
-    const [wrongInfo, setWrongInfo] = useState (false);
     const [invalid, setInvalid] = useState(false);
     const navigation = useNavigation();
 
     function login() {
-        setWrongInfo(!wrongInfo);
         navigation.navigate('Home');
     }
 
@@ -35,9 +33,6 @@ const Login = () => {
                 marginHorizontal: 40,
                 marginBottom: 400}}>
                 <Image source={require('../../assets/images/insta.png')} style={{height: 220, width: 440, marginRight: 10}}/>
-                {wrongInfo ? (
-                    <Text style={{color: 'red', fontWeight: 'bold', marginVertical: 10}}>Kullanıcı adı veya parola hatalı! Tekrar deneyiniz.</Text>
-                ):(<View/>)}
                 <View style={{borderRadius: 5, marginTop: 2, backgroundColor: 'lightgray', width: '100%', height: 45, justifyContent: 'center'}}>
                     <TextInput
                     multiline={false}
